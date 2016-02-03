@@ -1,0 +1,19 @@
+/* Author 			: Candra D Waskito
+ * Version 		: 1.0.0
+ * Created Date 	: 3 February 2016 */
+body {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background-color: #000; }
+
+.wrapper {
+  height: 97vh;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .wrapper .logo {
+    height: 50px; }
+
+/*# sourceMappingURL=style.css.map */
